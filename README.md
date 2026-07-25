@@ -1,128 +1,142 @@
-# Hi 👋, I'm Siva Teja
+<h1 align="center">Hi 👋, I'm Siva Teja</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | Full Stack Developer</h3>
 
-### Java Backend Developer | Spring Boot | Full Stack Developer
+<p align="center">
+Building scalable backend applications with Java & Spring Boot ☕
+</p>
 
-I'm a Computer Science undergraduate passionate about building secure, scalable backend systems and AI-powered applications. I enjoy designing RESTful APIs, solving algorithmic problems, and learning modern software engineering practices.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mandadi-sivateja-0209332a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://leetcode.com/u/SIVATEJA_MANDADI/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
+</p>
 
-- 🎓 B.Tech CSE @ Amrita Vishwa Vidyapeetham (2023–2027)
-- 💻 Java | Spring Boot | React | SQL
-- ☁️ AWS Certified Cloud Practitioner
-- 🧩 Solved **800+ DSA problems** on LeetCode
-- 🌱 Currently learning Microservices, Design Patterns, and System Design
+---
+
+## 👨‍💻 About Me
+
+🎓 B.Tech CSE @ Amrita Vishwa Vidyapeetham
+
+💻 Backend Developer specializing in Java & Spring Boot
+
+☁️ AWS Certified Cloud Practitioner
+
+🧩 Solved **800+ DSA Problems** on LeetCode
+
+🌱 Currently exploring **Microservices, System Design & Design Patterns**
+
+⚡ Love building secure APIs and scalable backend systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- Java
-- Python
-- JavaScript
-- SQL
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
+</p>
 
 ### Backend
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- JWT Authentication
 
-### Frontend
-- React
-- HTML
-- CSS
-- Bootstrap
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,docker,maven,git,github,aws"/>
+</p>
 
-### Databases
-- MySQL
-- PostgreSQL
-- Redis
-- Pinecone
+### Tools
 
-### Tools & Platforms
-- Git
-- GitHub
-- Docker
-- AWS
-- Maven
+<p>
+<img src="https://skillicons.dev/icons?i=redis,react"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📚 StudyCollab
-An AI-powered collaborative learning platform that enables students to study together with intelligent learning assistance.
+### 📚 StudyCollab
 
-**Highlights**
-- Secure JWT Authentication & Authorization
-- Real-time Study Rooms and Chat using WebSockets
-- AI-powered PDF Question Answering (RAG)
-- Automatic Quiz Generation
-- Pomodoro Timer
-- Semantic Search using Pinecone
+> AI-powered collaborative study platform
 
-**Tech Stack:** Spring Boot, React, MySQL, WebSocket, Pinecone, Gemini Embeddings, Groq LLM
+✅ JWT Authentication
 
-🔗 Repository: *Add Link*
+✅ WebSocket Chat
 
----
+✅ AI PDF Q&A (RAG)
 
-## 💰 Money Manager API
-A secure personal finance management system for tracking income, expenses, and financial insights.
+✅ Quiz Generation
 
-**Highlights**
-- Spring Security & JWT Authentication
-- Email Verification
-- Expense & Income Management
-- Analytics Dashboard
-- PDF & Excel Report Generation
-- Transaction Filtering
+✅ Pomodoro Timer
 
-**Tech Stack:** Spring Boot, Spring Security, JWT, MySQL, JPA, Maven
+**Spring Boot • React • MySQL • Pinecone • Gemini • Groq**
 
-🔗 Repository: *Add Link*
+🔗 Repository
 
 ---
 
-## 🤖 AI Exam Cheating Detection
-An AI-powered surveillance system for detecting suspicious activities during examinations using computer vision.
+### 💰 Money Manager API
 
-**Highlights**
-- YOLO-based Object Detection
-- Real-time CCTV Video Analysis
-- Suspicious Activity Detection
-- Automated Monitoring
+> Secure Personal Finance Management System
 
-**Tech Stack:** Python, YOLO, OpenCV
+✅ Spring Security + JWT
 
-🔗 Repository: *Add Link*
+✅ Email Verification
 
----
+✅ Analytics Dashboard
 
-# 📊 Coding Profiles
+✅ PDF & Excel Reports
 
-- 🧩 800+ Problems Solved on LeetCode
-- 💻 Strong Foundation in Data Structures & Algorithms
+✅ Transaction Filtering
+
+**Spring Boot • MySQL • JPA • JWT**
+
+🔗 Repository
 
 ---
 
-# 📈 GitHub Stats
+### 🤖 AI Exam Cheating Detection
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+> Intelligent surveillance system using Computer Vision
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+✅ YOLO Object Detection
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+✅ CCTV Video Monitoring
 
----
+✅ Suspicious Activity Detection
 
-## 📫 Connect with Me
+**Python • YOLO • OpenCV**
 
-- LinkedIn: https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mandadi-sivateja-0209332a9/
-- LeetCode: https://leetcode.com/u/SIVATEJA_MANDADI/
-
+🔗 Repository
 
 ---
 
-⭐ *Passionate about building scalable software, solving challenging problems, and continuously learning new technologies.*
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+🏅 AWS Certified Cloud Practitioner
+
+🧩 800+ LeetCode Problems Solved
+
+🚀 Passionate about Backend Development & Software Engineering
+
+---
+
+### ⭐ Thanks for visiting my profile!
