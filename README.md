@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi, I'm Mandadi Sivateja 👋</h1>
-  <h3>Java Backend Developer | Spring Boot | REST APIs | 800+ LeetCode Solved</h3>
+  <h3>Java Backend Developer | Spring Boot | Docker | REST APIs | 800+ LeetCode Solved</h3>
 
   <p>
     <a href="mailto:sivatejamandadi@gmail.com"><img src="https://img.shields.io/badge/Email-sivatejamandadi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -16,9 +16,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering at **Amrita Vishwa Vidyapeetham** (CGPA: 8.62).
-- ⚙️ **Focus:** Java Backend Engineering, High-Performance REST APIs, and System Design[cite: 1].
-- ☁️ **Certifications:** **AWS Certified Cloud Practitioner**[cite: 1].
-- 🧩 **Problem Solving:** Solved over **800+ problems** across Data Structures & Algorithms[cite: 1].
+- ⚙️ **Focus:** Java Backend Engineering, Containerization, High-Performance REST APIs, and System Design.
+- ☁️ **Certifications:** **AWS Certified Cloud Practitioner**.
+- 🧩 **Problem Solving:** Solved over **800+ problems** across Data Structures & Algorithms.
 
 ---
 
@@ -35,7 +35,8 @@
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
   <br/>
-  <!-- Tools & Cloud -->
+  <!-- Cloud, Containers & Tools -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -50,18 +51,18 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 AI-Collaborative Study App</h3>
-      <p>A real-time collaborative platform with an embedded AI Copilot for automated Q&A, summarization, and quiz generation[cite: 1].</p>
+      <p>A real-time collaborative platform with an embedded AI Copilot for automated Q&A, summarization, and quiz generation.</p>
       <ul>
-        <li><b>Tech:</b> Spring Boot, React, WebSockets, Groq LLaMA-3.3, Gemini Embeddings, Pinecone, MySQL[cite: 1]</li>
-        <li><b>Highlights:</b> Real-time sync, topic tracking, RAG integration[cite: 1]</li>
+        <li><b>Tech:</b> Spring Boot, React, WebSockets, Groq LLaMA-3.3, Gemini Embeddings, Pinecone, MySQL, Docker</li>
+        <li><b>Highlights:</b> Containerized setup, real-time sync, topic tracking, RAG integration</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>💰 Money Management System</h3>
-      <p>A personal finance analytics system featuring secure JWT auth, transaction filtering, and report generation[cite: 1].</p>
+      <p>A personal finance analytics system featuring secure JWT auth, transaction filtering, and report generation.</p>
       <ul>
-        <li><b>Tech:</b> Spring Boot, React, Spring Security, JWT, MySQL[cite: 1]</li>
-        <li><b>Highlights:</b> Automated PDF/Excel report exports, email verification[cite: 1]</li>
+        <li><b>Tech:</b> Spring Boot, React, Spring Security, JWT, MySQL, Docker</li>
+        <li><b>Highlights:</b> Containerized deployment, automated PDF/Excel report exports, email verification</li>
       </ul>
     </td>
   </tr>
@@ -79,5 +80,5 @@
 <br>
 
 <blockquote align="center">
-  <i>"Driven by core computer science principles, solid system architectures, and efficient algorithms."</i>
+  <i>"Driven by core computer science principles, solid system architectures, and scalable containerized solutions."</i>
 </blockquote>
