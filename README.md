@@ -1,206 +1,83 @@
-<h1 align="center">Hi 👋, I'm Siva Teja Mandadi</h1>
+<div align="center">
 
-<h3 align="center">
-Java Backend Developer | Spring Boot | REST APIs
-</h3>
+  <h1>Hi, I'm Mandadi Sivateja 👋</h1>
+  <h3>Java Backend Developer | Spring Boot | REST APIs | 800+ LeetCode Solved</h3>
 
-<p align="center">
-Building secure and scalable backend applications using Java, Spring Boot, and modern software engineering practices.
+  <p>
+    <a href="mailto:sivatejamandadi@gmail.com"><img src="https://img.shields.io/badge/Email-sivatejamandadi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Mandadi_Sivateja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-800%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  </p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering at **Amrita Vishwa Vidyapeetham** (CGPA: 8.62).
+- ⚙️ **Focus:** Java Backend Engineering, High-Performance REST APIs, and System Design[cite: 1].
+- ☁️ **Certifications:** **AWS Certified Cloud Practitioner**[cite: 1].
+- 🧩 **Problem Solving:** Solved over **800+ problems** across Data Structures & Algorithms[cite: 1].
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br/>
+  <!-- Backend & Frameworks -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <br/>
+  <!-- Tools & Cloud -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mandadi-sivateja-0209332a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://leetcode.com/u/SIVATEJA_MANDADI/">
-    <img src="https://img.shields.io/badge/LeetCode-800%2B%20Problems-orange?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="mailto:sivatejamandadi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+---
+
+### 🚀 Key Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 AI-Collaborative Study App</h3>
+      <p>A real-time collaborative platform with an embedded AI Copilot for automated Q&A, summarization, and quiz generation[cite: 1].</p>
+      <ul>
+        <li><b>Tech:</b> Spring Boot, React, WebSockets, Groq LLaMA-3.3, Gemini Embeddings, Pinecone, MySQL[cite: 1]</li>
+        <li><b>Highlights:</b> Real-time sync, topic tracking, RAG integration[cite: 1]</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💰 Money Management System</h3>
+      <p>A personal finance analytics system featuring secure JWT auth, transaction filtering, and report generation[cite: 1].</p>
+      <ul>
+        <li><b>Tech:</b> Spring Boot, React, Spring Security, JWT, MySQL[cite: 1]</li>
+        <li><b>Highlights:</b> Automated PDF/Excel report exports, email verification[cite: 1]</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 👨‍💻 About Me
+### 📊 GitHub Stats & LeetCode
 
-🎓 Computer Science Engineering student at **Amrita Vishwa Vidyapeetham, Amaravati** (2023 - 2027)  
-CGPA: **8.62**
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide=html,css" />
+</div>
 
-- 💻 Java Backend Developer specializing in **Spring Boot, REST APIs, and Database Design**
-- 🔐 Experienced in building secure applications using **Spring Security and JWT Authentication**
-- 🧩 Strong foundation in **Core Java, OOP, Design Patterns, DBMS, OS, and Computer Networks**
-- 🚀 Solved **800+ Data Structures & Algorithms problems on LeetCode**
-- 🤖 Interested in backend engineering, scalable systems, and AI-powered applications
-- ☁️ AWS Certified Cloud Practitioner
+<br>
 
----
-
-# 🛠️ Technical Skills
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java"/>
-</p>
-
-- Java
-- SQL
-
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring"/>
-</p>
-
-- Spring Boot
-- Spring Data JPA
-- Spring Security
-- REST API Development
-- JWT Authentication
-- WebSocket Communication
-
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-- MySQL
-
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode"/>
-</p>
-
-- Git & GitHub
-- Postman
-- IntelliJ IDEA
-- VS Code
-
-
-### Computer Science Fundamentals
-
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Design Patterns
-
-
----
-
-# 🚀 Featured Projects
-
-
-## 📚 AI Collaborative Study Application
-
-A real-time collaborative learning platform combining communication features with AI-powered study assistance.
-
-### Features
-
-- Built a collaborative study platform using Spring Boot, React, WebSocket, and MySQL
-- Implemented AI Study Copilot using RAG architecture
-- Integrated Gemini Embeddings, Pinecone vector database, and Groq LLaMA for:
-  - Semantic Question Answering
-  - Document Summarization
-  - Quiz Generation
-- Developed topic tracking and progress monitoring
-- Created a resource hub for sharing PDFs, images, videos, and links
-
-### Tech Stack
-
-```
-Spring Boot
-React
-WebSocket
-MySQL
-Pinecone
-Gemini Embeddings
-Groq LLaMA-3.3
-```
-
-
----
-
-## 💰 Money Management System
-
-A personal finance management application for tracking transactions and generating financial insights.
-
-### Features
-
-- Developed secure authentication using:
-  - Spring Security
-  - JWT Authentication
-  - Email Verification
-- Built analytics dashboard for financial insights
-- Implemented PDF and Excel report generation
-- Added transaction filtering based on:
-  - Category
-  - Date
-  - Transaction Type
-
-### Tech Stack
-
-```
-Spring Boot
-React
-MySQL
-Spring Security
-JWT
-Spring Data JPA
-```
-
-
----
-
-# 🏆 Certifications & Achievements
-
-🏅 **AWS Certified Cloud Practitioner**
-
-Demonstrated knowledge of cloud computing concepts and AWS services.
-
----
-
-🧩 **800+ LeetCode Problems Solved**
-
-Strong problem-solving skills with focus on Data Structures and Algorithms.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent"/>
-
-</p>
-
-
----
-
-# 🌱 Currently Learning
-
-- Microservices Architecture
-- System Design
-- Advanced Spring Boot Concepts
-- Design Patterns
-- Scalable Backend Development
-
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-Always interested in building impactful backend systems and solving challenging engineering problems.
-
-</p>
+<blockquote align="center">
+  <i>"Driven by core computer science principles, solid system architectures, and efficient algorithms."</i>
+</blockquote>
